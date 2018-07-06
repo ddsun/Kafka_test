@@ -1,0 +1,32 @@
+{
+  "createTime": "2018-06-23T10:13:03.560Z",
+  "dagId": null,
+  "description": null,
+  "displayName": null,
+  "elementType": "TableGroup",
+  "extra": null,
+  "meta": null,
+  "name": "string",
+  "namespace": "string",
+  "nodeId": null,
+  "owner": "1",
+  "persistence": "ALAWAYS",
+  "prn": "string",
+  "runId": null,
+  "schema": [
+    {
+      "name": "string",
+      "type": "string"
+    }
+  ],
+  "size": 0,
+  "tags": [
+    {
+      "createdTime": "2018-06-23T10:13:03.560Z",
+      "prn": "string",
+      "tag": "string"
+    }
+  ],
+  "updateTime": "2018-06-23T10:13:03.560Z",
+  "url": "string"
+}

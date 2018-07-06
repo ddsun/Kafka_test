@@ -1,0 +1,23 @@
+{
+  "tran_no":"00027890-3277-40da-b375-6fa8e21f4048",
+  "card_no":"54c136ef-125e-45bf-9d2b-f6eddd4a68d8",
+  "trx_date":"2017-04-28",
+  "trx_time":"2017-04-28 19:19:56",
+  "trx_amt":"854.45",
+  "input_source":"0",
+  "pos_entry_mode":"1",
+  "acq_id":"3",
+  "merchant_type":"90",
+  "terminal":"6308",
+  "merchant_id":"4102",
+  "country_code":"7",
+  "crdh_pre_ind":"3",
+  "usd_amt":"134.24",
+  "org_amt":"1495.39",
+  "org_curr_code":"8",
+  "term_city":"836",
+  "term_st":"2",
+  "pin_check":"1",
+  "tran_label":"0"
+
+}

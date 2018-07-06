@@ -1,0 +1,17 @@
+{
+  "topicName": "sddtopic",
+  "storageFormat": "json",
+  "transactionSchema": "77u/ewogICAgInRhYmxlX25hbWUiOiJteXNjaGVtYSIsCiAgICAiY29sdW1uX2RlbGltaXRlciI6IiwiLAogICAgInJvd19kZWxpbWl0ZXIiOiJcbiIsCiAgICAiZmllbGRzIjpbCiAgICAgICAgCXsKCQkJCSJmaWVsZCI6ImlkIiwKCQkJCSJ0eXBlIjoiSW50IgoJCQl9LAoJCQl7CgkJCQkiZmllbGQiOiJuYW1lIiwKCQkJCSJ0eXBlIjoiU3RyaW5nIgoJCQl9CgkJCSAgICAgICAgXQp9",
+  "targetPrn": "sddnamespace/createtest.table-group",
+  "jobType": "STREAM_KAFKA_TO_HDFS",
+  "prn": "sddnamespace/createtest.stream-job",
+  "kafkaConnect": "172.27.10.2:9093",
+  "config": {
+    "cpu": "1000m",
+    "mem": "512M"
+  },
+  "schedule": {
+    "interval": 30,
+    "intervalUnit": "MINUTE"
+  }
+}

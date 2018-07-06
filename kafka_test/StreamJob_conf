@@ -1,0 +1,86 @@
+{
+	"row_delimiter": "\n",
+	"table_name": "myschema",
+	"column_delimiter": ",",
+	"fields": [{
+			"name": "tran_no",
+			"type": "String"
+		},
+		{
+			"name": "card_no",
+			"type": "String"
+		},
+		{
+			"name": "trx_date",
+			"type": "String"
+		},
+		{
+			"name": "trx_time",
+			"type": "String"
+		},
+		{
+			"name": "trx_amt",
+			"type": "String"
+		},
+		{
+			"name": "input_source",
+			"type": "String"
+		},
+		{
+			"name": "pos_entry_mode",
+			"type": "String"
+		},
+		{
+			"name": "acq_id",
+			"type": "String"
+		},
+		{
+			"name": "merchant_type",
+			"type": "String"
+		},
+		{
+			"name": "terminal",
+			"type": "String"
+		},
+		{
+			"name": "merchant_id",
+			"type": "String"
+		},
+		{
+			"name": "country_code",
+			"type": "String"
+		},
+		{
+			"name": "crdh_pre_ind",
+			"type": "String"
+		},
+		{
+			"name": "usd_amt",
+			"type": "String"
+		},
+		{
+			"name": "org_amt",
+			"type": "String"
+		},
+		{
+			"name": "org_curr_code",
+			"type": "String"
+		},
+		{
+			"name": "term_city",
+			"type": "String"
+		},
+		{
+			"name": "term_st",
+			"type": "String"
+		},
+		{
+			"name": "pin_check",
+			"type": "String"
+		},
+		{
+			"name": "tran_label",
+			"type": "String"
+		}
+	]
+}
